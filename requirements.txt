@@ -1,7 +1,7 @@
 albumentations==0.5.2
 editdistance==0.5.3
 matplotlib==3.4.2
-numpy==1.20.3
+numpy==1.22.0
 opencv-python==3.4.4.19
 pandas==1.2.4
 Pillow==8.1.1
